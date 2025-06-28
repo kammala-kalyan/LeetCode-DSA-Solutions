@@ -1,4 +1,4 @@
-<h1 align="center"><strong>DSA Leet-Code Solutions</strong></h1>
+<h1 align="center"><strong> Leet-Code DSA Solutions</strong></h1>
 
 # 📚 LeetCode Daily Practice – by Kammala Kalyan
 
