@@ -82,7 +82,7 @@ Array manipulation (merging and rotating), string preprocessing, two-pointer str
 125. Valid Palindrome
 
 
-#🧠 What I Learned:
+# 🧠 What I Learned:
 
 -- How to merge two sorted arrays in-place using extra space and optimized pointer logic.
 
@@ -97,7 +97,7 @@ Array manipulation (merging and rotating), string preprocessing, two-pointer str
 -- Practiced writing a clean palindrome checker using alphanumeric filtering and case normalization.
 
 
-#🛠️ Techniques Practiced:
+# 🛠️ Techniques Practiced:
 
 -- Two-pointer technique for merging and comparing.
 
@@ -108,7 +108,7 @@ Array manipulation (merging and rotating), string preprocessing, two-pointer str
 -- Case-insensitive character comparison using toLowerCase() and charAt().
 
 
-#💬 Reflection:
+# 💬 Reflection:
 
 -- Today’s problems helped me level up my skills in both array manipulation and string processing. I made some small syntax mistakes early on (like s.charAt[index] and isempty()), but identifying and fixing them myself gave me more confidence.
 
