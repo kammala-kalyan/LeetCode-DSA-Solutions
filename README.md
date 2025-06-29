@@ -31,10 +31,9 @@ This is where I’m uploading all the LeetCode problems I solve every day. I'm c
 
 ---
 # My Streaks :
-
 <p align="center">
   <img 
-    src="https://streak-stats.demolab.com/?user=kammala-kalyan&theme=dark&background=000000&ring=FF6B81&fire=FF9F43&currStreakNum=58D68D&sideNums=F8C471&currStreakLabel=58D68D&sideLabels=F8C471&dates=85C1E9"
+    src="https://streak-stats.demolab.com?user=kammala-kalyan&theme=highcontrast&background=000000&border=5B2C6F&ring=FF914D&fire=FFBD69&currStreakNum=F7CE68&sideNums=F7CE68&currStreakLabel=FAD6A5&sideLabels=FAD6A5&dates=9DD9F3"
     alt="GitHub Streak"
   />
 </p>
