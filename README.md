@@ -3,7 +3,7 @@
 ---
 ---
 <p align="center">
-  <img src="DSA_Leetcode_image.jpeg" alt="LeetCode DSA Banner" style="width:80%;">
+  <img src="https://github.com/kammala-kalyan/LeetCode-DSA-Solutions/blob/main/DSA_Leetcode_image.jpg" alt="LeetCode DSA Banner" style="width:80%;">
 </p>
 
 <h1 align="center" style="font-size: 42px;"><strong>Leet-Code DSA Solutions</strong></h1>
