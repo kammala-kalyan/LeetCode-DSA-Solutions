@@ -29,11 +29,17 @@ This is where I’m uploading all the LeetCode problems I solve every day. I'm c
 
 -- Time and space complexity.
 
-<!-- GitHub Streak Graph -->
+---
+# My Streaks :
+
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=kammala-kalyan&theme=radical&border_radius=10&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak"/>
+  <img 
+    src="https://streak-stats.demolab.com/?user=kammala-kalyan&theme=dark&background=000000&ring=FF6B81&fire=FF9F43&currStreakNum=58D68D&sideNums=F8C471&currStreakLabel=58D68D&sideLabels=F8C471&dates=85C1E9"
+    alt="GitHub Streak"
+  />
 </p>
 
+---
 
 # 📘 Day 1 – Arrays & Two-Pointer Technique
 
