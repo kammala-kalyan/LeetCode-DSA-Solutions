@@ -117,3 +117,56 @@ Array manipulation (merging and rotating), string preprocessing, two-pointer str
 -- Also, debugging string logic with test cases like "0P" in the Valid Palindrome problem taught me to pay attention to constraints and edge cases.
 
 -- Ready to dive into Day 3 — hopefully with some more challenging problems! 🚀
+
+
+---
+
+# 📘 Day 3 – Strings & Two-Pointer Logic
+
+🗓️ **Date**: 29 June 2025
+
+🎯 **Focus Areas**:
+
+* String manipulation (trimming, reversing, and splitting)
+* Two-pointer search in sorted arrays
+
+---
+
+## ✅ Problems Solved:
+
+* 58. **Length of Last Word**
+* 151. **Reverse Words in a String**
+* 167. **Two Sum II – Input Array Is Sorted**
+
+---
+
+## 🧠 What I Learned:
+
+* ✅ In **Length of Last Word**, learned how to trim whitespace and backtrack from the end efficiently.
+* ✅ In **Reverse Words in a String**, practiced an in-place reversal technique by:
+
+  * Trimming and collapsing extra spaces with `.trim().replaceAll("\\s+", " ")`
+  * Reversing the entire string using a character array
+  * Then reversing each individual word to restore proper word order
+* ✅ From **Two Sum II**, used the two-pointer technique to find target pairs in a sorted array in `O(n)` time.
+
+---
+
+## 🛠️ Techniques Practiced:
+
+* `trim()`, `replaceAll()`, and manual character array reversal for precise control over string formatting.
+* Two-pointer traversal (`min` and `max`) to isolate and reverse each word efficiently.
+* `while (start < end)` logic for custom reverse methods.
+* Efficient scanning using `left` and `right` pointers to find pairs with a target sum.
+
+---
+
+## 💬 Reflection:
+
+* Today’s string-based problems helped me explore both built-in methods and manual control techniques — a great balance!
+* Writing a full reverseWords function from scratch was both challenging and rewarding. It gave me clarity on when to convert strings to `char[]`, especially for in-place editing.
+* The Two Sum II logic solidified my understanding of leveraging constraints like “sorted input” to reduce time complexity.
+
+✨ Excited for Day 4 — planning to explore **sliding window** or **hash-based** problems next!
+
+---
