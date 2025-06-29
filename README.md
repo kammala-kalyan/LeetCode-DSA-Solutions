@@ -2,11 +2,11 @@
 
 ---
 ---
-# 📚 LeetCode Daily Practice – by Kammala Kalyan
-
 <p align="center">
-  <img src="https://github.com/kammala-kalyan/kammala-kalyan/assets/your-banner.png" alt="LeetCode DSA Solutions Banner" style="max-width: 100%;">
+  <img src="https://github.com/kammala-kalyan/kammala-kalyan/assets/banner.png" alt="LeetCode DSA Banner" style="width:80%;">
 </p>
+
+<h1 align="center" style="font-size: 42px;"><strong>Leet-Code DSA Solutions</strong></h1>
 
 Hey! 👋
 This is where I’m uploading all the LeetCode problems I solve every day. I'm currently focusing on improving my problem-solving skills, especially in Java, and using this repo to keep track of my consistency and progress.
