@@ -1,12 +1,11 @@
-<h1 align="center"><strong> Leet-Code DSA Solutions</strong></h1>
-
+<h1 align="center" style="font-size: 42px;"><strong>Leet-Code DSA Solutions</strong></h1>
 ---
 
 <p align="center">
   <img src="https://github.com/kammala-kalyan/LeetCode-DSA-Solutions/blob/main/DSA_Leetcode_image.jpg" alt="LeetCode DSA Banner" style="width:90%;">
 </p>
 
-<h1 align="center" style="font-size: 42px;"><strong>Leet-Code DSA Solutions</strong></h1>
+
 
 Hey! 👋
 This is where I’m uploading all the LeetCode problems I solve every day. I'm currently focusing on improving my problem-solving skills, especially in Java, and using this repo to keep track of my consistency and progress.
