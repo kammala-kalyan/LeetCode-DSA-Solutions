@@ -1,5 +1,8 @@
 <h1 align="center"><strong> Leet-Code DSA Solutions</strong></h1>
 
+---
+---
+---
 # 📚 LeetCode Daily Practice – by Kammala Kalyan
 
 Hey! 👋
