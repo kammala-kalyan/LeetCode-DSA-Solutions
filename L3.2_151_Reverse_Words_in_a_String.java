@@ -81,6 +81,7 @@ Time Complexity : O(n)----------------> because of char[] (needed due to Java st
 | `s.replaceAll("[^a-zA-Z0-9]", "")` | Remove **all non-alphanumeric characters**                              |
 | `s.replaceAll("\\d", "")`          | Remove all **digits**                                                   |
 | `s.replaceAll(" +", " ")`          | Replace **multiple spaces** with **a single space**                     |
+| s.replaceAll("\\D", "")            | will remove everything except digits                                    |
 
 s.replaceAll(" +", " ")
 Matches: One or more space characters only (' ')
