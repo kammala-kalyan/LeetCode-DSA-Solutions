@@ -4,6 +4,10 @@
 ---
 # 📚 LeetCode Daily Practice – by Kammala Kalyan
 
+<p align="center">
+  <img src="https://github.com/kammala-kalyan/kammala-kalyan/assets/your-banner.png" alt="LeetCode DSA Solutions Banner" style="max-width: 100%;">
+</p>
+
 Hey! 👋
 This is where I’m uploading all the LeetCode problems I solve every day. I'm currently focusing on improving my problem-solving skills, especially in Java, and using this repo to keep track of my consistency and progress.
 
