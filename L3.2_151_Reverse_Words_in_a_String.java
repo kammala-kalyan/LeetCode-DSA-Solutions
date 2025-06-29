@@ -72,3 +72,43 @@ class Solution {
 Time Complexity : O(n)----------------> single level for loop and single level while loop
 Time Complexity : O(n)----------------> because of char[] (needed due to Java strings being immutable)
 */
+/* | Code                               | Description                                                             |
+| ---------------------------------- | ----------------------------------------------------------------------- |
+| `s.replaceAll("^\\s+", "")`        | Remove **leading** whitespace                                           |
+| `s.replaceAll("\\s+$", "")`        | Remove **trailing** whitespace                                          |
+| `s.trim()`                         | Removes both **leading and trailing** whitespace (simpler alternative!) |
+| `s.replaceAll("\\s+", " ")`        | Replace **all whitespace (anywhere)** with a single space               |
+| `s.replaceAll("[^a-zA-Z0-9]", "")` | Remove **all non-alphanumeric characters**                              |
+| `s.replaceAll("\\d", "")`          | Remove all **digits**                                                   |
+| `s.replaceAll(" +", " ")`          | Replace **multiple spaces** with **a single space**                     |
+
+s.replaceAll(" +", " ")
+Matches: One or more space characters only (' ')
+
+Ignores: Tabs (\t), newlines (\n), carriage returns (\r), etc.
+
+✅ Example:
+
+String s = "Hello    World\t\tJava";
+System.out.println(s.replaceAll(" +", " "));
+// Output: "Hello World		Java" ← tabs are not touched
+
+s.replaceAll("\\s+", " ")
+Matches: One or more whitespace characters, including:
+
+Regular space (' ')
+
+Tab (\t)
+
+Newline (\n)
+
+Carriage return (\r)
+
+Form feed (\f)
+
+✅ Example:
+
+String s = "Hello    World\t\tJava\nis\tcool";
+System.out.println(s.replaceAll("\\s+", " "));
+// Output: "Hello World Java is cool" ← all whitespace normalized
+*/
