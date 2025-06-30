@@ -146,7 +146,6 @@ Array manipulation (merging and rotating), string preprocessing, two-pointer str
 * String manipulation (trimming, reversing, and splitting)
 * Two-pointer search in sorted arrays
 
----
 
 ## ✅ Problems Solved:
 
@@ -154,7 +153,6 @@ Array manipulation (merging and rotating), string preprocessing, two-pointer str
 * 151. **Reverse Words in a String**
 * 167. **Two Sum II – Input Array Is Sorted**
 
----
 
 ## 🧠 What I Learned:
 
@@ -166,7 +164,6 @@ Array manipulation (merging and rotating), string preprocessing, two-pointer str
   * Then reversing each individual word to restore proper word order
 * ✅ From **Two Sum II**, used the two-pointer technique to find target pairs in a sorted array in `O(n)` time.
 
----
 
 ## 🛠️ Techniques Practiced:
 
@@ -175,7 +172,6 @@ Array manipulation (merging and rotating), string preprocessing, two-pointer str
 * `while (start < end)` logic for custom reverse methods.
 * Efficient scanning using `left` and `right` pointers to find pairs with a target sum.
 
----
 
 ## 💬 Reflection:
 
@@ -184,5 +180,34 @@ Array manipulation (merging and rotating), string preprocessing, two-pointer str
 * The Two Sum II logic solidified my understanding of leveraging constraints like “sorted input” to reduce time complexity.
 
 ✨ Excited for Day 4 — planning to explore **sliding window** or **hash-based** problems next!
+
+---
+📘 Day 4 – Two Sum & Three Sum with Sorting + Two Pointers
+🗓️ 30 June 2025
+
+✅ Problems Solved:
+Two Sum (with sorting + two pointers) – O(n)
+
+Three Sum
+
+Brute-force – O(n³)
+
+Optimized – sorting + two pointers – O(n²)
+
+🧠 What I Learned:
+Used sorting to enable efficient pointer movement
+
+Applied two-pointer logic: min, max, while (min < max)
+
+Used Set<List<Integer>> to store unique triplets
+
+Learned about Arrays.asList() and List<List<Integer>>
+
+🔜 Next Focus (Day 5):
+Learn Java Collections:
+
+HashMap, HashSet, ArrayList
+
+Solve problems using frequency maps and hash sets
 
 ---
