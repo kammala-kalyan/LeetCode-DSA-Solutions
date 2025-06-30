@@ -182,19 +182,17 @@ Array manipulation (merging and rotating), string preprocessing, two-pointer str
 ✨ Excited for Day 4 — planning to explore **sliding window** or **hash-based** problems next!
 
 ---
-📘 Day 4 – Two Sum & Three Sum with Sorting + Two Pointers
+## 📘 Day 4 – Two Sum & Three Sum with Sorting + Two Pointers
 🗓️ 30 June 2025
 
-✅ Problems Solved:
-Two Sum (with sorting + two pointers) – O(n)
+## ✅ Problems Solved:
+-- Two Sum (with sorting + two pointers) – O(n)
 
-Three Sum
-
+-- Three Sum
 Brute-force – O(n³)
-
 Optimized – sorting + two pointers – O(n²)
 
-🧠 What I Learned:
+#🧠 What I Learned:
 Used sorting to enable efficient pointer movement
 
 Applied two-pointer logic: min, max, while (min < max)
@@ -203,7 +201,7 @@ Used Set<List<Integer>> to store unique triplets
 
 Learned about Arrays.asList() and List<List<Integer>>
 
-🔜 Next Focus (Day 5):
+#🔜 Next Focus (Day 5):
 Learn Java Collections:
 
 HashMap, HashSet, ArrayList
