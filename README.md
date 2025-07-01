@@ -1,240 +1,69 @@
-<h1 align="center" style="font-size: 42px;"><strong>Leet-Code DSA Solutions</strong></h1>
-
----
+<h1 align="center"><strong>📘 LeetCode DSA Daily Progress</strong></h1>
 
 <p align="center">
-  <img src="https://github.com/kammala-kalyan/LeetCode-DSA-Solutions/blob/main/DSA_Leetcode_image.jpg" alt="LeetCode DSA Banner" style="width:90%;">
+  <img src="https://github.com/kammala-kalyan/LeetCode-DSA-Solutions/blob/main/DSA_Leetcode_image.jpg" alt="LeetCode DSA Banner" width="90%">
 </p>
 
+---
 
-
-Hey! 👋
-This is where I’m uploading all the LeetCode problems I solve every day. I'm currently focusing on improving my problem-solving skills, especially in Java, and using this repo to keep track of my consistency and progress.
-
-# 📌 Why I Made This Repo:
--- To build a habit of solving problems daily 🧠.
-
--- To revise and organize all my solved problems in one place 📂.
-
--- To create a small portfolio I can share on LinkedIn and during interviews 💼.
-
-
-
-# 💻 What's Inside:
--- My Java solutions to LeetCode problems.
-
--- Proper filenames with problem numbers and titles.
-
--- Short comments or explanations (I try to keep them simple).
-
--- Time and space complexity.
+## 🧠 Goal
+Building strong DSA fundamentals by solving LeetCode problems daily (Java focused).  
+Tracking progress here for consistency, revision, and sharing during interviews.
 
 ---
 
-# 📘 Day 1 – Arrays & Two-Pointer Technique
+## 📅 Daily Log
 
-🗓️ Date: 27 June 2025
-
-🎯 Focus Areas: Arrays, Two-Pointer Technique
-
-
-# ✅ Problems Solved:
-
-27. Remove Element.
-
-26. Remove Duplicates from Sorted Array.
-
-80. Remove Duplicates from Sorted Array II.
-
-# 🧠 What I Learned:
-
-How to remove elements or duplicates in-place using two pointers.
-
-Importance of handling array bounds and updating the correct index.
-
-Learned to rethink my logic when stuck, instead of rushing to a solution.
-
-Got better at writing cleaner code and understanding how k (the write pointer) should behave.
-
-
-# 🛠️ Techniques Practiced:
-
-Two-pointer approach (i for reading, k for writing).
-
-In-place array modifications.
-
-Dealing with conditions like nums[i] != nums[k-2] to limit repetitions.
-
-# 💬 Reflection:
-
-I felt stuck a couple of times, especially when checking conditions for duplicates in Problem 80. Instead of copying the solution, I took a short break, walked through test cases on paper, and restructured my approach. This made the logic clearer and gave me more confidence.
-
-Looking forward to building on this tomorrow. ✌️
-
-
-# 📘 Day 2 – Array Manipulation & String Handling
-
-🗓️ Date: 28 June 2025
-
-🎯 Focus Areas:
-
-Array manipulation (merging and rotating), string preprocessing, two-pointer string traversal.
-
-# ✅ Problems Solved:
-
-88. Merge Sorted Array
-
-189. Rotate Array
-
-125. Valid Palindrome
-
-
-# 🧠 What I Learned:
-
--- How to merge two sorted arrays in-place using extra space and optimized pointer logic.
-
--- Realized the benefit of merging from the back to avoid overwriting elements.
-
--- Learned multiple techniques for rotating arrays: brute-force, extra array, and optimal reverse approach using 3-step reversal.
-
--- Improved regex and string handling in Java for filtering characters.
-
--- Understood the importance of charAt() and how strings are different from arrays in Java.
-
--- Practiced writing a clean palindrome checker using alphanumeric filtering and case normalization.
-
-
-# 🛠️ Techniques Practiced:
-
--- Two-pointer technique for merging and comparing.
-
--- Reverse-based rotation using three-part reversal.
-
--- Regex for string cleanup ([^a-zA-Z0-9]).
-
--- Case-insensitive character comparison using toLowerCase() and charAt().
-
-
-# 💬 Reflection:
-
--- Today’s problems helped me level up my skills in both array manipulation and string processing. I made some small syntax mistakes early on (like s.charAt[index] and isempty()), but identifying and fixing them myself gave me more confidence.
-
--- Rotating an array using the three-step reverse was a cool technique — clean and efficient!
-
--- Also, debugging string logic with test cases like "0P" in the Valid Palindrome problem taught me to pay attention to constraints and edge cases.
-
--- Ready to dive into Day 3 — hopefully with some more challenging problems! 🚀
-
+### 🗓️ Day 1 – Arrays & Two Pointers (27 June 2025)
+**Problems:**  
+- 27. Remove Element  
+- 26. Remove Duplicates from Sorted Array  
+- 80. Remove Duplicates II  
+**Key Concepts:**  
+In-place removal, handling duplicates, read-write pointer pattern.
 
 ---
 
-# 📘 Day 3 – Strings & Two-Pointer Logic
-
-🗓️ **Date**: 29 June 2025
-
-🎯 **Focus Areas**:
-
-* String manipulation (trimming, reversing, and splitting)
-* Two-pointer search in sorted arrays
-
-
-## ✅ Problems Solved:
-
-* 58. **Length of Last Word**
-* 151. **Reverse Words in a String**
-* 167. **Two Sum II – Input Array Is Sorted**
-
-
-## 🧠 What I Learned:
-
-* ✅ In **Length of Last Word**, learned how to trim whitespace and backtrack from the end efficiently.
-* ✅ In **Reverse Words in a String**, practiced an in-place reversal technique by:
-
-  * Trimming and collapsing extra spaces with `.trim().replaceAll("\\s+", " ")`
-  * Reversing the entire string using a character array
-  * Then reversing each individual word to restore proper word order
-* ✅ From **Two Sum II**, used the two-pointer technique to find target pairs in a sorted array in `O(n)` time.
-
-
-## 🛠️ Techniques Practiced:
-
-* `trim()`, `replaceAll()`, and manual character array reversal for precise control over string formatting.
-* Two-pointer traversal (`min` and `max`) to isolate and reverse each word efficiently.
-* `while (start < end)` logic for custom reverse methods.
-* Efficient scanning using `left` and `right` pointers to find pairs with a target sum.
-
-
-## 💬 Reflection:
-
-* Today’s string-based problems helped me explore both built-in methods and manual control techniques — a great balance!
-* Writing a full reverseWords function from scratch was both challenging and rewarding. It gave me clarity on when to convert strings to `char[]`, especially for in-place editing.
-* The Two Sum II logic solidified my understanding of leveraging constraints like “sorted input” to reduce time complexity.
-
-✨ Excited for Day 4 — planning to explore **sliding window** or **hash-based** problems next!
+### 🗓️ Day 2 – Array & String Manipulation (28 June 2025)
+**Problems:**  
+- 88. Merge Sorted Array  
+- 189. Rotate Array  
+- 125. Valid Palindrome  
+**Key Concepts:**  
+3-step rotation, regex for filtering, character comparison in strings.
 
 ---
-## 📘 Day 4 – Two Sum & Three Sum with Sorting + Two Pointers
-🗓️ 30 June 2025
 
-## ✅ Problems Solved:
--- Two Sum (with sorting + two pointers) – O(n)
-
--- Three Sum
-Brute-force – O(n³)
-Optimized – sorting + two pointers – O(n²)
-
-#🧠 What I Learned:
-Used sorting to enable efficient pointer movement
-
-Applied two-pointer logic: min, max, while (min < max)
-
-Used Set<List<Integer>> to store unique triplets
-
-Learned about Arrays.asList() and List<List<Integer>>
+### 🗓️ Day 3 – Strings & Two-Pointer Logic (29 June 2025)
+**Problems:**  
+- 58. Length of Last Word  
+- 151. Reverse Words in a String  
+- 167. Two Sum II  
+**Key Concepts:**  
+Trim, reverse in-place, space handling, pointer-based search in sorted array.
 
 ---
-## 📘 Day 5 – Matrix Rotation, Search Insert, K Difference, Median of Two Sorted Arrays
-🗓️ 1 July 2025
 
-## ✅ Problems Solved:
-🔄 Rotate Image 90° (In-place)
+### 🗓️ Day 4 – Two Sum & Three Sum (30 June 2025)
+**Problems:**  
+- 1. Two Sum (sorted input)  
+- 15. Three Sum  
+**Key Concepts:**  
+Sorting + two-pointer approach, `Set<List>` for unique triplets.
 
-Used transpose + reverse row
+---
 
-Mastered helper methods: transpose() and reverseRow()
+### 🗓️ Day 5 – Matrix & Binary Search (1 July 2025)
+**Problems:**  
+- 48. Rotate Image  
+- 1886. Determine if Matrix Can Be Obtained  
+- 2006. Count Pairs with Absolute Difference K  
+- 35. Search Insert Position  
+- 4. Median of Two Sorted Arrays  
+**Key Concepts:**  
+Transpose + reverse for rotation, brute-force search, binary search, merging for median.
 
-🔁 Check if matrix can be rotated to become another
+---
 
-Used issame() and called rotate() 4 times to check all 90° increments
-
-🔢 Count Pairs with Difference K
-
-Brute-force with two loops and Math.abs() to mimic modulus
-
-📌 Search Insert Position
-
-Used binary search and returned start if not found
-
-Time: O(log n)
-
-📊 Median of Two Sorted Arrays
-
-Merged arrays manually
-
-Handled even and odd length for median correctly
-
-Time: O(n + m)
-
-## 🧠 What I Learned:
-✅ Rotating a matrix in-place using transpose + reverse
-
-✅ How to compare matrices after rotating multiple times
-
-✅ Usage of Math.abs() for absolute difference
-
-✅ Binary search logic for insert position
-
-✅ Merging two arrays and calculating median
-
-✅ Difference between (a + b)/2 and (a + b)/2.0
-
+✅ *More days to come...*  
+Follow this journey or contribute at [github.com/kammala-kalyan/LeetCode-DSA-Solutions](https://github.com/kammala-kalyan/LeetCode-DSA-Solutions)
