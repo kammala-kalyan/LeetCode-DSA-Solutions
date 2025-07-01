@@ -55,7 +55,7 @@ Sorting + two-pointer approach, `Set<List>` for unique triplets.
 
 ### 🗓️ Day 5 – Matrix & Binary Search (1 July 2025)
 **Problems:**  
-- 48. Rotate Image  
+ - 48. Rotate Image  
 - 1886. Determine if Matrix Can Be Obtained  
 - 2006. Count Pairs with Absolute Difference K  
 - 35. Search Insert Position  
