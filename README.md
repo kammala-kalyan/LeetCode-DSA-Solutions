@@ -192,11 +192,49 @@ Used Set<List<Integer>> to store unique triplets
 
 Learned about Arrays.asList() and List<List<Integer>>
 
-#🔜 Next Focus (Day 5):
-Learn Java Collections:
-
-HashMap, HashSet, ArrayList
-
-Solve problems using frequency maps and hash sets
-
 ---
+## 📘 Day 5 – Matrix Rotation, Search Insert, K Difference, Median of Two Sorted Arrays
+🗓️ 1 July 2025
+
+## ✅ Problems Solved:
+🔄 Rotate Image 90° (In-place)
+
+Used transpose + reverse row
+
+Mastered helper methods: transpose() and reverseRow()
+
+🔁 Check if matrix can be rotated to become another
+
+Used issame() and called rotate() 4 times to check all 90° increments
+
+🔢 Count Pairs with Difference K
+
+Brute-force with two loops and Math.abs() to mimic modulus
+
+📌 Search Insert Position
+
+Used binary search and returned start if not found
+
+Time: O(log n)
+
+📊 Median of Two Sorted Arrays
+
+Merged arrays manually
+
+Handled even and odd length for median correctly
+
+Time: O(n + m)
+
+## 🧠 What I Learned:
+✅ Rotating a matrix in-place using transpose + reverse
+
+✅ How to compare matrices after rotating multiple times
+
+✅ Usage of Math.abs() for absolute difference
+
+✅ Binary search logic for insert position
+
+✅ Merging two arrays and calculating median
+
+✅ Difference between (a + b)/2 and (a + b)/2.0
+
