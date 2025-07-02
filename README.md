@@ -74,6 +74,26 @@ Binary search to find or insert target
 Merged sorted arrays and calculated median for even/odd length cases
 
 ---
+## 🗓️ Day 6 – Array & Math (2 July 2025)
+
+- `66`. Plus One
+- Traverse digits from end to start.
+- If digit < 9 → increment and return.
+- If digit = 9 → set to 0 and carry to previous digit.
+- If all are 9s → create new array with 1 at front.
+- **Time Complexity:** O(n)  
+- **Space Complexity:** O(1)
+
+---
+
+- `9`. Palindrome Number
+- Return false if number is negative.
+- Reverse the number using `%` and `/`.
+- Compare reversed number with original.
+- **Time Complexity:** O(log₁₀n)  
+- **Space Complexity:** O(1)
+
+---
 
 ✅ *More days to come...*  
-Follow this journey or contribute at [github.com/kammala-kalyan/LeetCode-DSA-Solutions](https://github.com/kammala-kalyan/LeetCode-DSA-Solutions)
+
