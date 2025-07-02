@@ -84,8 +84,6 @@ Merged sorted arrays and calculated median for even/odd length cases
 - **Time Complexity:** O(n)  
 - **Space Complexity:** O(1)
 
----
-
 - `9`. Palindrome Number
 - Return false if number is negative.
 - Reverse the number using `%` and `/`.
