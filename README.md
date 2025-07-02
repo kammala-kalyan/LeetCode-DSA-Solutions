@@ -66,7 +66,7 @@ Avoided duplicates using `Set<List<Integer>>`
 - `35`. Search Insert Position  
 - `4`. Median of Two Sorted Arrays  
 
-**Key Concepts:**  
+** 🔑 Key Concepts:**  
 Transpose + reverse for 90° rotation  
 Matrix comparison after 0°, 90°, 180°, and 270° rotations  
 Brute-force check using `Math.abs()` for absolute difference  
@@ -75,21 +75,25 @@ Merged sorted arrays and calculated median for even/odd length cases
 
 ---
 ## 🗓️ Day 6 – Array & Math (2 July 2025)
-
+**Problems:**  
 - `66`. Plus One
-- Traverse digits from end to start.
-- If digit < 9 → increment and return.
-- If digit = 9 → set to 0 and carry to previous digit.
-- If all are 9s → create new array with 1 at front.
-- **Time Complexity:** O(n)  
-- **Space Complexity:** O(1)
-
 - `9`. Palindrome Number
-- Return false if number is negative.
-- Reverse the number using `%` and `/`.
-- Compare reversed number with original.
-- **Time Complexity:** O(log₁₀n)  
-- **Space Complexity:** O(1)
+
+** 🔑 Key Concepts:**  
+- *➕ Plus One (66)*:
+  - Traverse digits from end to start.
+  - If digit < 9 → increment and return.
+  - If digit = 9 → set to 0 and carry to previous digit.
+  - If all are 9s → create a new array with `1` at the front.
+  - **Time Complexity:** O(n)  
+  - **Space Complexity:** O(1)
+
+- *🔁 Palindrome Number (9)*:
+  - Negative numbers are not palindromes.
+  - Reverse the integer using `%` and `/`.
+  - Compare reversed number with the original.
+  - **Time Complexity:** O(log₁₀n)  
+  - **Space Complexity:** O(1)
 
 ---
 
