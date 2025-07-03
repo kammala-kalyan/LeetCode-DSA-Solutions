@@ -1,7 +1,7 @@
 <h1 align="center"><strong>📘 LeetCode DSA Daily Progress</strong></h1>
 
 <p align="center">
-  <img src="https://github.com/kammala-kalyan/LeetCode-DSA-Solutions/blob/main/DSA_Leetcode_image.jpg" alt="LeetCode DSA Banner" width="90%">
+  <img src="https://github.com/kammala-kalyan/LeetCode-DSA-Solutions/blob/main/DSA_Banner.png" width="90%">
 </p>
 
 ---
