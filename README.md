@@ -96,6 +96,17 @@ Merged sorted arrays and calculated median for even/odd length cases
   - **Space Complexity:** O(1)
 
 ---
+## Day 7  (July 3, 2025)
+**🔥 Problems Solved:**
+ - `34`. Find First and Last Position of Element in Sorted Array
+ - `162`. Find Peak Element
+
+**🔑 Key Concepts:**
+ - Binary Search to find first and last occurrence
+ - Modified Binary Search to find a peak element
+ - Efficient handling of edge cases (array length 1, start/end elements)
+
+---
 
 ✅ *More days to come...*  
 
