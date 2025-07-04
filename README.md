@@ -76,8 +76,8 @@ Merged sorted arrays and calculated median for even/odd length cases
 ---
 ## 🗓️ Day 6 – Array & Math (2 July 2025)
 **Problems:**  
-- `66`. [Plus One]()
-- `9`. [Palindrome Number]()
+- `66`. [Plus One](https://github.com/kammala-kalyan/LeetCode-DSA-Solutions/blob/main/L6.1_66.%20Plus%20One.java)
+- `9`. [Palindrome Number](https://github.com/kammala-kalyan/LeetCode-DSA-Solutions/blob/main/L6.2_9.%20Palindrome%20Number.java)
 
 ** 🔑 Key Concepts:**  
 - Solved Plus One by iterating from end and handling carry-over for 9s.
@@ -88,8 +88,8 @@ Merged sorted arrays and calculated median for even/odd length cases
 ---
 ## Day 7  (July 3, 2025)
 **🔥 Problems Solved:**
- - `34`. [Find First and Last Position of Element in Sorted Array]()
- - `162`. [Find Peak Element]()
+ - `34`. [Find First and Last Position of Element in Sorted Array](https://github.com/kammala-kalyan/LeetCode-DSA-Solutions/blob/main/L7.1_34.%20Find%20First%20and%20Last%20Position%20of%20Element%20in%20Sorted%20Array.java)
+ - `162`. [Find Peak Element](https://github.com/kammala-kalyan/LeetCode-DSA-Solutions/blob/main/L7.2_162.%20Find%20Peak%20Element.java)
 
 **🔑 Key Concepts:**
  - Binary Search to find first and last occurrence
@@ -100,8 +100,8 @@ Merged sorted arrays and calculated median for even/odd length cases
 
 ## Day 8 (July 4, 2025)
 **🔥 Problems Solved:**
- - `50`. [Pow(x, n)]()
- - `69`. [Sqrt(x)]()
+ - `50`. [Pow(x, n)](https://github.com/kammala-kalyan/LeetCode-DSA-Solutions/blob/main/L_8.1__50.%20Pow(x%2C%20n).java)
+ - `69`. [Sqrt(x)](https://github.com/kammala-kalyan/LeetCode-DSA-Solutions/blob/main/L8.2__69.%20Sqrt(x).java)
 
 **🔑 Key Concepts:**
  - Implemented pow(x, n) using binary exponentiation (O(log n) time).
