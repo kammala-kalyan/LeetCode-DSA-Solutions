@@ -67,11 +67,11 @@ Avoided duplicates using `Set<List<Integer>>`
 - `4`. [Median of Two Sorted Arrays](https://github.com/kammala-kalyan/LeetCode-DSA-Solutions/blob/main/L5.5_4.%20Median%20of%20Two%20Sorted%20Arrays.java) 
 
 ** 🔑 Key Concepts:**  
-Transpose + reverse for 90° rotation  
-Matrix comparison after 0°, 90°, 180°, and 270° rotations  
-Brute-force check using `Math.abs()` for absolute difference  
-Binary search to find or insert target  
-Merged sorted arrays and calculated median for even/odd length cases
+ - Transpose + reverse for 90° rotation.
+ - Matrix comparison after 0°, 90°, 180°, and 270° rotations  .
+ - Brute-force check using `Math.abs()` for absolute difference.
+ - Binary search to find or insert target.
+ - Merged sorted arrays and calculated median for even/odd length cases
 
 ---
 ## 🗓️ Day 6 – Array & Math (2 July 2025)
