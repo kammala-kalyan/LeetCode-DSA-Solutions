@@ -11,7 +11,14 @@ Building strong DSA fundamentals by solving LeetCode problems daily (Java focuse
 Tracking progress here for consistency, revision, and sharing during interviews.
 
 ---
+## 📅 LeetCode DSA Visual Tracker – June–July 2025
 
+| Mon        | Tue        | Wed        | Thu        | Fri        | Sat        | Sun        |
+|------------|------------|------------|------------|------------|------------|------------|
+|            |            |            |            | 27 ✅      | 28 ✅      | 29 ✅      |
+| 30 ✅      | 1 ✅       | 2 ✅       | 3 ✅       | 4 ✅       | 5 ✅       |            |
+
+---
 ## 📅 Daily Log
 
 ### 🗓️ Day 1 – Arrays & Two Pointers (27 June 2025)
