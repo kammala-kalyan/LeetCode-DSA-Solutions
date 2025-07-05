@@ -16,7 +16,7 @@ Tracking progress here for consistency, revision, and sharing during interviews.
 | Mon        | Tue        | Wed        | Thu        | Fri        | Sat        | Sun        |
 |------------|------------|------------|------------|------------|------------|------------|
 |            |            |            |            | 27 ✅      | 28 ✅      | 29 ✅      |
-| 30 ✅      | 1 ✅       | 2 ✅       | 3 ✅       | 4 ✅       | 5 ✅       |            |
+| 30 ✅      | 1 ✅       | 2 ✅       | 3 ✅       | 4 ✅       | 5 ✅       | 6 ⏳       |
 
 ---
 ## 📅 Daily Log
