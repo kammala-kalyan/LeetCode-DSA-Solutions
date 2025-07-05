@@ -15,51 +15,51 @@ Tracking progress here for consistency, revision, and sharing during interviews.
 ## 📅 Daily Log
 
 ### 🗓️ Day 1 – Arrays & Two Pointers (27 June 2025)
-**Problems:**  
+**🔥 Problems Solved:**
 - `27`. [Remove Element](https://github.com/kammala-kalyan/LeetCode-DSA-Solutions/blob/main/L1.1_28_Remove_Element.java)  
 - `26`. [Remove Duplicates from Sorted Array](https://github.com/kammala-kalyan/LeetCode-DSA-Solutions/blob/main/L1.2_26_Remove_Duplicates_from_Sorted_Array.java)
 - `80`. [Remove Duplicates from Sorted Array II](https://github.com/kammala-kalyan/LeetCode-DSA-Solutions/blob/main/L1.3_80_Remove_Duplicates_from_Sorted_Array_II.java)  
 
-**Key Concepts:**  
+**🔑 Key Concepts:**
 In-place removal using two pointers, handling duplicates, and read-write pointer pattern.
 
 ---
 
 ### 🗓️ Day 2 – Array & String Manipulation (28 June 2025)
-**Problems:**  
+**🔥 Problems Solved:**
 - `88`. [Merge Sorted Array](https://github.com/kammala-kalyan/LeetCode-DSA-Solutions/blob/main/L2.1_88_Merge_Sorted_Array.java)
 - `189`. [Rotate Array](https://github.com/kammala-kalyan/LeetCode-DSA-Solutions/blob/main/L2.2_189_Rotate_Array.java)
 - `125`. [Valid Palindrome](https://github.com/kammala-kalyan/LeetCode-DSA-Solutions/blob/main/L2.3_125_Valid_Palindrome.java)
 
-**Key Concepts:**  
+**🔑 Key Concepts:**
 3-step reverse rotation, regex filtering, string cleaning, and two-pointer comparison.
 
 ---
 
 ### 🗓️ Day 3 – Strings & Two-Pointer Logic (29 June 2025)
-**Problems:**  
+**🔥 Problems Solved:** 
 - `58`. [Length of Last Word](https://github.com/kammala-kalyan/LeetCode-DSA-Solutions/blob/main/L3.1_58_Length_of_Last_Word.java)
 - `151`. [Reverse Words in a String](https://github.com/kammala-kalyan/LeetCode-DSA-Solutions/blob/main/L3.2_151_Reverse_Words_in_a_String.java)
 - `167`. [Two Sum II – Input Array Is Sorted](https://github.com/kammala-kalyan/LeetCode-DSA-Solutions/blob/main/L3.3_167_Two_Sum_II_Input_Array_Is_Sorted.java)
 
-**Key Concepts:**  
+**🔑 Key Concepts:**
 Trimming + word reversal using char array, in-place edits, and target sum using two pointers.
 
 ---
 
 ### 🗓️ Day 4 – Two Sum & Three Sum (30 June 2025)
-**Problems:**  
+**🔥 Problems Solved:**
 - `1`. [Two Sum](https://github.com/kammala-kalyan/LeetCode-DSA-Solutions/blob/main/L4.1_1.%20Two%20Sum.java) 
 - `15`. [Three Sum](https://github.com/kammala-kalyan/LeetCode-DSA-Solutions/blob/main/L4.2_15.%203Sum.java)
 
-**Key Concepts:**  
+**🔑 Key Concepts:**
 Used `Arrays.sort()` + two-pointer logic (`min`, `max`)  
 Avoided duplicates using `Set<List<Integer>>`
 
 ---
 
 ### 🗓️ Day 5 – Matrix & Binary Search (1 July 2025)
-**Problems:**  
+**🔥 Problems Solved:**
 - `48`. [Rotate Image](https://github.com/kammala-kalyan/LeetCode-DSA-Solutions/blob/main/L5.1_48.%20Rotate%20Image.java)
 - `1886`. [Determine if Matrix Can Be Obtained](https://github.com/kammala-kalyan/LeetCode-DSA-Solutions/blob/main/L5.2__1886.%20Determine%20Whether%20Matrix%20Can%20Be%20Obtained%20By%20Rotation.java)
 - `2006`. [Count Pairs with Absolute Difference K](https://github.com/kammala-kalyan/LeetCode-DSA-Solutions/blob/main/L5.3_2006.%20Count%20Number%20of%20Pairs%20With%20Absolute%20Difference%20K.java)
@@ -75,7 +75,7 @@ Avoided duplicates using `Set<List<Integer>>`
 
 ---
 ## 🗓️ Day 6 – Array & Math (2 July 2025)
-**Problems:**  
+**🔥 Problems Solved:**
 - `66`. [Plus One](https://github.com/kammala-kalyan/LeetCode-DSA-Solutions/blob/main/L6.1_66.%20Plus%20One.java)
 - `9`. [Palindrome Number](https://github.com/kammala-kalyan/LeetCode-DSA-Solutions/blob/main/L6.2_9.%20Palindrome%20Number.java)
 
@@ -108,6 +108,18 @@ Avoided duplicates using `Set<List<Integer>>`
  -  Handled negative exponents and overflow using long.
  - Implemented sqrt(x) using binary search (O(log x) time).
  - Ensured safe computation with edge case handling and floor output.
+
+---
+## Day 9 (July 5, 2025)
+**🔥 Problems Solved:**
+ - `172`. [Factorial Trailing Zeroes](https://github.com/kammala-kalyan/LeetCode-DSA-Solutions/blob/main/L9.1_172.%20Factorial%20Trailing%20Zeroes.java)
+ - `153`. [Find Minimum in Rotated Sorted ArrayFind Minimum in Rotated Sorted Array](https://github.com/kammala-kalyan/LeetCode-DSA-Solutions/blob/main/L9.2_153.%20Find%20Minimum%20in%20Rotated%20Sorted%20Array.java)
+ - `33`. [Search in Rotated Sorted Array](https://github.com/kammala-kalyan/LeetCode-DSA-Solutions/blob/main/L9.3_33.%20Search%20in%20Rotated%20Sorted%20Array.java)
+
+**🔑 Key Concepts:**
+ - Learnt how to count factors of 5 in a number to compute trailing zeroes in n! efficiently (no need to compute full factorial).
+ - Learnt how to apply binary search on a rotated sorted array by comparing mid with end to locate the minimum element (pivot).
+ -  Learn how to use modified binary search by determining which half is sorted and narrowing the search space accordingly.
 
 ---
 
