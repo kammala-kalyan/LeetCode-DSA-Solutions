@@ -16,8 +16,8 @@ Tracking progress here for consistency, revision, and sharing during interviews.
 | Mon        | Tue        | Wed        | Thu        | Fri        | Sat        | Sun        |
 |------------|------------|------------|------------|------------|------------|------------|
 |            |            |            |            | 27 ✅      | 28 ✅      | 29 ✅      |
-| 30 ✅      | 1 ✅       | 2 ✅       | 3 ✅       | 4 ✅       | 5 ✅       | 6 ⏳       |
-
+| 30 ✅     | 1 ✅       | 2 ✅       | 3 ✅       | 4 ✅       | 5 ✅       | 6 ✅       |
+| 7 ⏳  |  8          |9   | 10  | 11   |12    | 13       |
 ---
 ## 📅 Daily Log
 
@@ -126,9 +126,15 @@ Avoided duplicates using `Set<List<Integer>>`
 **🔑 Key Concepts:**
  - Learnt how to count factors of 5 in a number to compute trailing zeroes in n! efficiently (no need to compute full factorial).
  - Learnt how to apply binary search on a rotated sorted array by comparing mid with end to locate the minimum element (pivot).
- -  Learn how to use modified binary search by determining which half is sorted and narrowing the search space accordingly.
+ - Learn how to use modified binary search by determining which half is sorted and narrowing the search space accordingly.
 
 ---
+## Day 10 (July 6, 2025)
+**🔥 Problems Solved:**
+ - `74`. [Search a 2D Matrix](https://github.com/kammala-kalyan/LeetCode-DSA-Solutions/blob/main/L9.1_172.%20Factorial%20Trailing%20Zeroes.java)
+ - `240`. [Search a 2D Matrix II](https://github.com/kammala-kalyan/LeetCode-DSA-Solutions/blob/main/L9.2_153.%20Find%20Minimum%20in%20Rotated%20Sorted%20Array.java)
+**🔑 Key Concepts:**
+ - 
 
 ✅ *More days to come...*  
 
