@@ -74,7 +74,7 @@ Avoided duplicates using `Set<List<Integer>>`
 - `35`. [Search Insert Position](https://github.com/kammala-kalyan/LeetCode-DSA-Solutions/blob/main/L5.4_35.%20Search%20Insert%20Position.java) 
 - `4`. [Median of Two Sorted Arrays](https://github.com/kammala-kalyan/LeetCode-DSA-Solutions/blob/main/L5.5_4.%20Median%20of%20Two%20Sorted%20Arrays.java) 
 
-** 🔑 Key Concepts:**  
+**🔑 Key Concepts:**
  - Transpose + reverse for 90° rotation.
  - Matrix comparison after 0°, 90°, 180°, and 270° rotations  .
  - Brute-force check using `Math.abs()` for absolute difference.
@@ -87,7 +87,7 @@ Avoided duplicates using `Set<List<Integer>>`
 - `66`. [Plus One](https://github.com/kammala-kalyan/LeetCode-DSA-Solutions/blob/main/L6.1_66.%20Plus%20One.java)
 - `9`. [Palindrome Number](https://github.com/kammala-kalyan/LeetCode-DSA-Solutions/blob/main/L6.2_9.%20Palindrome%20Number.java)
 
-** 🔑 Key Concepts:**  
+**🔑 Key Concepts:**
 - Solved Plus One by iterating from end and handling carry-over for 9s.
 - Handled all-9s case by creating a new array with leading 1.
 - Solved Palindrome Number by reversing half of the integer.
