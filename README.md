@@ -16,8 +16,8 @@ Tracking progress here for consistency, revision, and sharing during interviews.
 |Mon  |Tue  |Wed  |Thu  |Fri  |Sat  |Sun  |
 |-----|-----|-----|-----|-----|-----|-----|
 |     |     |     |     |27✅ |28✅|29✅ |
-|30✅|1✅  |2 ✅ |3 ✅|4 ✅ |5 ✅|6 ✅ |
-| 7 ⏳|8    |9    | 10  | 11  |12  | 13   |
+|30✅| 1✅ |2 ✅ |3 ✅|4 ✅ |5 ✅|6 ✅ |
+| 7 ✅|8 ⏳|9    | 10  | 11  |12  | 13   |
 
 ---
 ## 📅 Daily Log
@@ -138,6 +138,16 @@ Avoided duplicates using `Set<List<Integer>>`
 **🔑 Key Concepts:**
  - Learnt how to use binary search in a 2d matrix when entire matrix is sorted from row1 to obtain O(log n) time complexity .
  - Learnt how to find target by using binary search when each row and each column are sorted but not enitre matrix from row 1 to obtain O(n+m) time complexity.
+
+---
+## Day 11 (July 7, 2025)
+**🔥 Problems Solved:**
+ - `73`. [Set Matrix Zeroes](https://github.com/kammala-kalyan/LeetCode-DSA-Solutions/blob/main/L11.1_73.%20Set%20Matrix%20Zeroes.java)
+ - `54`. [Spiral Matrix](https://github.com/kammala-kalyan/LeetCode-DSA-Solutions/blob/main/L11.2_54.%20Spiral%20Matrix.java)
+
+ **🔑 Key Concepts:**
+ - Used the first row and first column as markers to store zero positions allows you to achieve O(1) space complexity, instead of using extra arrays.
+ - Spiral traversal is best handled by simulating direction-based movement (left → right → down → left → up) while carefully shrinking boundaries to avoid revisiting elements.
 
 ---
 ✅ *More days to come...*  
