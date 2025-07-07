@@ -1,4 +1,4 @@
-<h1 align="center"><strong>📘 LeetCode DSA Daily Progress</strong></h1>
+<h1 align="center"><strong><img src="https://github.com/kammala-kalyan/LeetCode-DSA-Solutions/blob/main/NoteBook.png" width="30%">LeetCode DSA Daily Progress</strong></h1>
 
 <p align="center">
   <img src="https://github.com/kammala-kalyan/LeetCode-DSA-Solutions/blob/main/DSA_Banner.png" width="90%">
