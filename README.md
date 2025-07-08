@@ -24,7 +24,7 @@ Tracking progress here for consistency, revision, and sharing during interviews.
 
 ### 🗓️ Day 1 – Arrays & Two Pointers (27 June 2025)
 **🔥 Problems Solved:**
-- `27`. [Remove Element](https://github.com/kammala-kalyan/LeetCode-DSA-Solutions/blob/main/L1.1_28_Remove_Element.java)  
+- `27`. [Remove Element](https://github.com/kammala-kalyan/LeetCode-DSA-Solutions/blob/main/L01.1_28_Remove_Element.java)  
 - `26`. [Remove Duplicates from Sorted Array](https://github.com/kammala-kalyan/LeetCode-DSA-Solutions/blob/main/L1.2_26_Remove_Duplicates_from_Sorted_Array.java)
 - `80`. [Remove Duplicates from Sorted Array II](https://github.com/kammala-kalyan/LeetCode-DSA-Solutions/blob/main/L1.3_80_Remove_Duplicates_from_Sorted_Array_II.java)  
 
