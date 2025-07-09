@@ -17,7 +17,7 @@ Tracking progress here for consistency, revision, and sharing during interviews.
 |-----|-----|-----|-----|-----|-----|-----|
 |     |     |     |     |27✅ |28✅|29✅ |
 |30✅| 1✅ |2 ✅ |3 ✅|4 ✅ |5 ✅|6 ✅ |
-| 7 ✅|8 ✅|9 ⏳ | 10  | 11  |12  | 13   |
+| 7 ✅|8 ✅|9 ✅ | 10 ⏳| 11  |12  | 13   |
 
 ---
 ## 📅 Daily Log
@@ -158,5 +158,12 @@ Avoided duplicates using `Set<List<Integer>>`
  - Learned and applied bit manipulation in the Game of Life problem, and gained practical understanding of Math.min() and Math.max() functions for safe boundary handling in problem-solving.
 
 ---
+## Day 12 (July 8, 2025)
+**🔥 Problem Solved:**
+ - `169`. [Majority Element](https://github.com/kammala-kalyan/LeetCode-DSA-Solutions/blob/main/L13.1_169.%20Majority%20Element.java)
+
+ **🔑 Key Concepts:**
+  - Learned and used the Boyer-Moore Voting Algorithm to find the majority element that appears more than n/2 times in an array.
+  - Understood that the element variable must be initialized before the loop because it is used in multiple if-else conditions.
 ✅ *More days to come...*  
 
