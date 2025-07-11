@@ -1,6 +1,6 @@
 /*
 🔢 LeetCode Problem: 56. Merge Intervals
-🌐 Link: https://leetcode.com/problems/remove-element/
+🌐 Link: https://leetcode.com/problems/merge-intervals/
 📌 Difficulty: Medium
 🧠 Topics: Array, Sorting
 Given an array of intervals where intervals[i] = [starti, endi], merge all overlapping intervals, and return an array of the non-overlapping intervals that cover all the intervals in the input.
@@ -29,7 +29,7 @@ class Solution {
         Arrays.sort(intervals,(a,b)->(a[0]-b[0]));
         int start=intervals[0][0];
         int end =intervals[0][1];
-        for(int i=0;i<intervals.length;i++){
+        for(int i=1;i<intervals.length;i++){
             int curstart=intervals[i][0];
             int curend=intervals[i][1];
             if(curstart<=end){
