@@ -17,7 +17,7 @@ Tracking progress here for consistency, revision, and sharing during interviews.
 |-----|-----|-----|-----|-----|-----|-----|
 |     |     |     |     |27✅ |28✅|29✅ |
 |30✅| 1✅ |2 ✅ |3 ✅|4 ✅ |5 ✅|6 ✅ |
-| 7 ✅|8 ✅|9 ✅ |10✅| 11⏳|12  | 13   |
+| 7 ✅|8 ✅|9 ✅ |10✅| 11✅|12⏳| 13   |
 
 ---
 ## 📅 Daily Log
@@ -176,7 +176,14 @@ Avoided duplicates using `Set<List<Integer>>`
   - Applied Boyer-Moore Voting Algorithm to find the majority element that appears more than n/3 times in an array.
   - Learnt an optimal code to merge intervals after sorting them. Learnt how to sort 2d Arrays.
 
-  ---
+---
+## Day 15 (July 11, 2025)
+**🔥 Problem Solved:**
+ - `57`. [Insert Interval](https://github.com/kammala-kalyan/LeetCode-DSA-Solutions/blob/main/L15.1_57.%20Insert%20Interval.java)
 
+ **🔑 Key Concepts:**
+ - Applied merge intervals concept here.
+
+---
 ✅ *More days to come...*  
 
